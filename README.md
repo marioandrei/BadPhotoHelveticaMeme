@@ -1,6 +1,8 @@
 # BadPhotoHelveticaMeme
-Source files used for the meme I made back in 2010
+![Alt text](BadPhotoHelveticaMeme.jpg?raw=true "Bad Photo Helvetica")
 
-jpg of the original photo (made with a Nikon D90)
-jpg of the modified photo 
-psd of the final render
+Source files used for the meme I made back in 2010:
+
+* jpg of the original photo (made with a Nikon D90)
+* jpg of the modified photo
+* psd of the final render (text used is Helvetica Neue)
